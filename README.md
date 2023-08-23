@@ -1,4 +1,4 @@
-# 🖥️ Buzz Feed Clone
+# 🖥️ Buzz Feed Clone 
 
 Este projeto compreende a criação de um clone do Buzz Feed. O projeto foi construído baseado em Angular para fins de 
 consolidação de conhecimentos práticos e teóricos.
@@ -20,3 +20,11 @@ consolidação de conhecimentos práticos e teóricos.
 ## 🔗 Links Úteis:
 - [Components Angular](https://angular.io/guide/component-overview)
 - [TypeScript Org](https://www.typescriptlang.org/)
+
+
+<hr />
+
+### ⚖️ License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
